@@ -8,10 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
     "core-js": "^3.6.5",
+    "fontawesome-5-icons-list": "^1.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
